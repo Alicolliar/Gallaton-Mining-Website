@@ -1,0 +1,39 @@
+header {
+	font-family:arial;
+	font-size:125%;
+	color:#FFD700;
+	background-color:black;
+	text-align:center;
+	padding:5px;
+}
+nav {
+	font-family:arial;
+	font-size:125%;
+	background-color:black;
+	padding:2px;
+}
+section {
+	font-family:arial;
+	font-size:125%;
+	background-color:black;
+	color:#FFD700;
+	padding:2px;
+}
+article {
+	font-family:arial;
+	font-size:125%;
+	background-color:black;
+	color:#FFD700;
+	padding:2px;
+}
+footer {
+	font-family:arial;
+	font-size:125%;
+	text-align:center;
+	background-color:black;
+	color:#FFD700;
+	padding:5px;
+}
+h1 {
+    font-family:arial;
+}
